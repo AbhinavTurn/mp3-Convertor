@@ -1,2 +1,6 @@
 pip install pydub
-ffmpeg
+
+Please install FFmpeg
+Windows: Download from https://ffmpeg.org or use 'winget install ffmpeg
+Mac: brew install ffmpeg
+Linux: sudo apt install ffmpeg
